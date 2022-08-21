@@ -1,0 +1,14 @@
+.uicard {
+    word-wrap: break-word;
+  }
+
+.uicardpadding {
+    padding: 1%;
+  }
+
+.verticalAlign {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
