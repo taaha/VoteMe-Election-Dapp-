@@ -29,8 +29,11 @@ node deploy.js
 npm run dev
 ```
 ## Few Screenshots of frontend
+Main Page  
 ![Main Page](https://user-images.githubusercontent.com/5251294/185807134-39717951-d91d-4035-a6d3-91573ec61c71.png)
+Candidate Registration Page  
 ![Candidate Registration Page](https://user-images.githubusercontent.com/5251294/185807143-4f5629ef-0c56-45f7-974c-b53270320ca6.png)
+Result Page  
 ![Result page](https://user-images.githubusercontent.com/5251294/185807146-58ee0de8-9d19-426b-a8aa-32e217052a61.png)
 
 ## Feel free to build and improve this code
