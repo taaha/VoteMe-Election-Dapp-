@@ -2,7 +2,7 @@
 This is a dapp for voting where all of the votes and candidate registration happens on chain. Anyone is allowed to start an election with a registration period, voting period, and ending time. Anyone can sign up as a candidate during the registration period, and anyone can vote once during the voting period. Has a front end where voters can see the results and know how long is left in the election.  
   
 -Smart Contract is written in solidity  
--Front End is written in reactjs  
+-Front End is written in reactjs (using semantic-ui-react)
   
   
 ## Please follow these steps to run code succesfully
@@ -28,3 +28,10 @@ cd ethereum
 node deploy.js
 npm run dev
 ```
+## Few Screenshots of frontend
+![Main Page](https://user-images.githubusercontent.com/5251294/185807134-39717951-d91d-4035-a6d3-91573ec61c71.png)
+![Candidate Registration Page](https://user-images.githubusercontent.com/5251294/185807143-4f5629ef-0c56-45f7-974c-b53270320ca6.png)
+![Result page](https://user-images.githubusercontent.com/5251294/185807146-58ee0de8-9d19-426b-a8aa-32e217052a61.png)
+
+## Feel free to build and improve this code
+May the fork be with you - Darth Panda :panda_face:
