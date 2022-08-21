@@ -1,9 +1,10 @@
 # VoteMe Election Dapp
-This is a dapp for voting where all of the votes and candidate registration happens on chain. Anyone is allowed to start an election with a registration period, voting period, and ending time. Anyone can sign up as a candidate during the registration period, and anyone can vote once during the voting period. Has a front end where voters can see the results and know how long is left in the election.
-
-Smart Contract is written in solidity.
-Front End is written in reactjs.
-
+This is a dapp for voting where all of the votes and candidate registration happens on chain. Anyone is allowed to start an election with a registration period, voting period, and ending time. Anyone can sign up as a candidate during the registration period, and anyone can vote once during the voting period. Has a front end where voters can see the results and know how long is left in the election.  
+  
+Smart Contract is written in solidity  
+Front End is written in reactjs  
+  
+  
 ## Please follow these steps to run code succesfully
 ### Changes in deploy.js
 -Enter your wallet pneumonic phrase on line 6. remove dummy phrase
